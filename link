@@ -1,1 +1,18 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/AkkjNp706LSnYTwUnBmy1r/Final-High-Fidelity-Prototype?node-id=1-2&embed-host=share" allowfullscreen></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Figma Prototype Link</title>
+</head>
+<body>
+    <h1>Final High-Fidelity Prototype</h1>
+    <p>
+        Click the link below to view the prototype:
+    </p>
+    <a href="https://www.figma.com/proto/AkkjNp706LSnYTwUnBmy1r/Final-High-Fidelity-Prototype?node-id=1-2&t=REVHeBsjBJmaLpbj-1" target="_blank">
+        View Figma Prototype
+    </a>
+</body>
+</html>
+
